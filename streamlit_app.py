@@ -52,7 +52,7 @@ except URLError as e:
 # output to screen as table
 
 
-streamlit.write('The user entered ', fruit_choice)
+#streamlit.write('The user entered ', fruit_choice)
 
 #troubleshoot
 #
