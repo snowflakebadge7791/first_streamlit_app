@@ -55,7 +55,7 @@ except URLError as e:
 streamlit.write('The user entered ', fruit_choice)
 
 #troubleshoot
-streamlit.stop()
+#streamlit.stop()
 
 #import snowflake.connector
 
